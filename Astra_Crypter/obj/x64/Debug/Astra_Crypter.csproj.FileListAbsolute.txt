@@ -1,0 +1,11 @@
+C:\Users\aleks\source\repos\Astra_Crypter\Astra_Crypter\bin\x64\Debug\Astra_Crypter.exe.config
+C:\Users\aleks\source\repos\Astra_Crypter\Astra_Crypter\bin\x64\Debug\Astra_Crypter.exe
+C:\Users\aleks\source\repos\Astra_Crypter\Astra_Crypter\bin\x64\Debug\Astra_Crypter.pdb
+C:\Users\aleks\source\repos\Astra_Crypter\Astra_Crypter\obj\x64\Debug\Astra_Crypter.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\Astra_Crypter\Astra_Crypter\obj\x64\Debug\Astra_Crypter.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\source\repos\Astra_Crypter\Astra_Crypter\obj\x64\Debug\Astra_Crypter.Form1.resources
+C:\Users\aleks\source\repos\Astra_Crypter\Astra_Crypter\obj\x64\Debug\Astra_Crypter.Properties.Resources.resources
+C:\Users\aleks\source\repos\Astra_Crypter\Astra_Crypter\obj\x64\Debug\Astra_Crypter.csproj.GenerateResource.cache
+C:\Users\aleks\source\repos\Astra_Crypter\Astra_Crypter\obj\x64\Debug\Astra_Crypter.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Astra_Crypter\Astra_Crypter\obj\x64\Debug\Astra_Crypter.exe
+C:\Users\aleks\source\repos\Astra_Crypter\Astra_Crypter\obj\x64\Debug\Astra_Crypter.pdb
